@@ -1,0 +1,5 @@
+Line: rho=1794.0, theta=0.0, gradient_ratio=0.007344250437168861, angle=-90.0
+Line: rho=1195.0, theta=1.5707963705062866, gradient_ratio=nan, angle=0.02866221847606629
+Line: rho=659.0, theta=1.535889744758606, gradient_ratio=0.6268234819039927, angle=-2.0065389332852783
+Line: rho=648.0, theta=1.5707963705062866, gradient_ratio=nan, angle=0.02866221847606629
+Line: rho=646.0, theta=1.5707963705062866, gradient_ratio=nan, angle=0.02866221847606629
